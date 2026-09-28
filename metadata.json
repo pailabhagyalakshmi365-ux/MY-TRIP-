@@ -1,0 +1,6 @@
+{
+  "name": "India Trip Planner",
+  "description": "All-in-one Indian travel discovery and trip planning platform to explore 20+ destinations, generate day-by-day itineraries, estimate trip costs in ₹, and test-book hotels, transport, attraction tickets, and local guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
